@@ -10,7 +10,7 @@ This was originally coded by demand for Dave Fashenpour on 2019.
 
 ## Usage
 
-Just open the Visual Studio project in any version after 2019 and it should probably work as expected (last tested with VS 2022), and then just compile and run.
+Just open the Visual Studio project in VS 2022, compile and run.
 
 Then leave the computer and do something else, it will take a while. It does have constant feedback of what it is doing, so you will know when it is done.
 
